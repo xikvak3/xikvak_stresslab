@@ -41,10 +41,9 @@ This repository distributes the **compiled APK only** — no source code, no bui
 
 ## 📸 Screenshots
 
-<!-- Screenshots go here. Drop your PNGs into docs/screenshots/ and reference them, e.g.: -->
-<!--
+
 <img src="docs/screenshots/stats.png" width="240"/> <img src="docs/screenshots/cpu-test.png" width="240"/>
--->
+
 
 ## 📥 Installation
 
