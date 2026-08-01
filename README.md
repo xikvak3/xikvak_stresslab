@@ -61,7 +61,7 @@ Running your CPU, RAM, storage, or battery at sustained high load is exactly wha
 XIKVAK StressLab is free, with an optional Pro tier. If it's useful to you, a donation of any size keeps development alive:
 
 - **Card (Visa):** `4916 9903 1117 9219`
-- **Card holder:** XLKVAK
+- **Card holder:** Azizjon
 - **Telegram:** [@XlKVAK](https://t.me/XlKVAK)
 - **Email:** [xikvak3@gmail.com](mailto:xikvak3@gmail.com)
 
@@ -73,10 +73,6 @@ Found a bug, or have a feature idea? Reach out through Telegram or email above, 
 
 XIKVAK StressLab is an independent project and is not affiliated with, endorsed by, or sponsored by any device manufacturer. Stress testing pushes hardware harder than everyday use — use responsibly.
 
-## 📄 License
 
-*Add your chosen license here (e.g. MIT, Apache 2.0, or "All rights reserved") before publishing.*
-
----
 
 <div align="center">Made with care</div>
