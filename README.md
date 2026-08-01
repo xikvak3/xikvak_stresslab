@@ -42,7 +42,7 @@ This repository distributes the **compiled APK only** — no source code, no bui
 ## 📸 Screenshots
 
 
-<img src="docs/screenshots/stats.png" width="240"/> <img src="docs/screenshots/cpu-test.png" width="240"/>
+<img src="docs/screenshots/dashboard.png" width="240"/> <img src="docs/screenshots/tests.png" width="240"/>
 
 
 ## 📥 Installation
